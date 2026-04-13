@@ -33,3 +33,5 @@ Nếu bạn là AI hỗ trợ dự án này, hãy tuân thủ:
 - **Kiến trúc**: Clean Architecture, DDD, Event-Driven.
 - **Nghiệm vụ**: Review code, tối ưu hóa logic nghiệp vụ và đảm bảo tính đồng nhất giữa các repository.
 - **Tiêu chuẩn**: Luôn kiểm tra các `Contracts` trước khi đề xuất thay đổi Integration Events.
+- **GIỚI HẠN QUYỀN (QUAN TRỌNG)**: AI tuyệt đối KHÔNG ĐƯỢC tự ý sinh ra tính năng/thêm code mới. BẮT BUỘC phải chờ user cho phép (Confirm) trước khi thực thi bất kỳ lệnh push/upload/commit bề mặt nào để thay đổi dữ liệu trên Remote Repository.
+- **Quy chuẩn Commit**: Mọi mã commit đẩy lên đều phải tuân theo chuẩn Conventional format (feat, fix, docs, style, refactor, perf, test, build, ci, chore, revert) và BẮT BUỘC viết bằng Tiếng Anh (English ONLY).
