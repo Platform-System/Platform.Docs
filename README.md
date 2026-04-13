@@ -35,3 +35,4 @@ Nếu bạn là AI hỗ trợ dự án này, hãy tuân thủ:
 - **Tiêu chuẩn**: Luôn kiểm tra các `Contracts` trước khi đề xuất thay đổi Integration Events.
 - **GIỚI HẠN QUYỀN (QUAN TRỌNG)**: User đang học Microservices, nên AI tuyệt đối KHÔNG ĐƯỢC dùng tool can thiệp sửa code trực tiếp. AI chỉ được đưa ra code mẫu trong khung chat để user tự gõ lại và rèn luyện. BẮT BUỘC phải có lệnh cho phép trước khi thao tác push/commit.
 - **Quy chuẩn Commit**: Mọi mã commit đẩy lên đều phải tuân theo chuẩn Conventional format (feat, fix, docs, style, refactor, perf, test, build, ci, chore, revert) và BẮT BUỘC viết bằng Tiếng Anh (English ONLY).
+- **Cleanup Code**: Trước khi tiến hành Commit/Push (nếu được phép), AI BẮT BUỘC phải soi lại toàn bộ C# class và dọn dẹp xóa sạch các đoạn khai báo namespace (`using`) bị thừa thãi. Đảm bảo source code luôn Clean trước khi lên Remote.
