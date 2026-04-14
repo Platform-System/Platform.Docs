@@ -1,5 +1,6 @@
-﻿node_modules/
+node_modules/
 .vs/
 .vscode/
 bin/
 obj/
+appsettings.Development.json
