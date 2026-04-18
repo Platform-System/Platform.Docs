@@ -20,7 +20,7 @@ Bản đồ tri thức hệ thống Microservices Polyrepo.
 ### 3. Base (Tiện ích hỗ trợ)
 - **Platform.BuildingBlocks**: Các công cụ lập trình cơ bản.
 - **Platform.SystemContext**: Ngữ cảnh người dùng & Hệ thống.
-- **Platform.Common**: Cấu hình và hằng số dùng chung.
+- **Platform.UI**: Giao diện cổng thông tin Nexus hiện đại.
 
 ### 4. Ops (Vận hành)
 - **Platform.IaC**: Cấu hình hạ tầng Docker.
