@@ -6,28 +6,27 @@ Bản đồ tri thức hệ thống Microservices Polyrepo.
 
 ## 🗺️ Master Map (12 Repositories)
 
-### 1. APIs (Services nghiệp vụ)
+### 1. UI (Giao diện người dùng)
+- **Platform.UI**: Giao diện cổng thông tin Nexus hiện đại.
+
+### 2. APIs (Services nghiệp vụ)
 - **Platform.Identity.API**: Quản lý Tài khoản & Xác thực người dùng.
 - **Platform.Catalog.API**: Quản lý Sản phẩm & Danh mục.
 - **Platform.Gateway**: Cổng tiếp nhận & Điều hướng yêu cầu (Gateway).
 
-### 2. Core (Xương sống kiến trúc)
+### 3. Core (Xương sống kiến trúc)
 - **Platform.Domain**: Logic nghiệp vụ cốt lõi (Entities, Rules).
 - **Platform.Application**: Quy trình xử lý hồ sơ (Use Cases, MediatR).
 - **Platform.Infrastructure**: Hiện thực hóa công nghệ (RabbitMQ, Postgres).
 - **Platform.Contracts**: Ngôn ngữ liên lạc chung (Integration Events).
 
-### 3. Base (Tiện ích hỗ trợ)
+### 4. Base (Tiện ích hỗ trợ)
 - **Platform.BuildingBlocks**: Các công cụ lập trình cơ bản.
 - **Platform.SystemContext**: Ngữ cảnh người dùng & Hệ thống.
 
-
-### 4. Ops (Vận hành)
+### 5. Ops (Vận hành)
 - **Platform.IaC**: Cấu hình hạ tầng Docker.
 - **Platform.CI-CD**: Quy trình tự động hóa GitHub Actions.
-
-### 5. UI (Giao diện người dùng)
-- **Platform.UI**: Giao diện cổng thông tin Nexus hiện đại.
 
 ---
 ## 🤖 AI Context & Instruction (Dành cho AI)
