@@ -7,26 +7,27 @@ Bản đồ tri thức hệ thống Microservices Polyrepo.
 ## 🗺️ Master Map (12 Repositories)
 
 ### 1. UI (Giao diện người dùng)
-- **Platform.UI**: Giao diện cổng thông tin Nexus hiện đại.
+- [**Platform.UI**](https://github.com/Platform-System/Platform.UI): Giao diện cổng thông tin Nexus hiện đại.
 
 ### 2. APIs (Services nghiệp vụ)
-- **Platform.Identity.API**: Quản lý Tài khoản & Xác thực người dùng.
-- **Platform.Catalog.API**: Quản lý Sản phẩm & Danh mục.
-- **Platform.Gateway**: Cổng tiếp nhận & Điều hướng yêu cầu (Gateway).
+- [**Platform.Identity.API**](https://github.com/Platform-System/Platform.Identity.API): Quản lý Tài khoản & Xác thực người dùng.
+- [**Platform.Catalog.API**](https://github.com/Platform-System/Platform.Catalog.API): Quản lý Sản phẩm & Danh mục.
+- [**Platform.Ordering.API**](https://github.com/Platform-System/Platform.Ordering.API): Quản lý Đặt hàng & Đơn hàng.
+- [**Platform.Gateway**](https://github.com/Platform-System/Platform.Gateway): Cổng tiếp nhận & Điều hướng yêu cầu (Gateway).
 
 ### 3. Core (Xương sống kiến trúc)
-- **Platform.Domain**: Logic nghiệp vụ cốt lõi (Entities, Rules).
-- **Platform.Application**: Quy trình xử lý hồ sơ (Use Cases, MediatR).
-- **Platform.Infrastructure**: Hiện thực hóa công nghệ (RabbitMQ, Postgres).
-- **Platform.Contracts**: Ngôn ngữ liên lạc chung (Integration Events).
+- [**Platform.Domain**](https://github.com/Platform-System/Platform.Domain): Logic nghiệp vụ cốt lõi (Entities, Rules).
+- [**Platform.Application**](https://github.com/Platform-System/Platform.Application): Quy trình xử lý hồ sơ (Use Cases, MediatR).
+- [**Platform.Infrastructure**](https://github.com/Platform-System/Platform.Infrastructure): Hiện thực hóa công nghệ (RabbitMQ, Postgres).
+- [**Platform.Contracts**](https://github.com/Platform-System/Platform.Contracts): Ngôn ngữ liên lạc chung (Integration Events).
 
 ### 4. Base (Tiện ích hỗ trợ)
-- **Platform.BuildingBlocks**: Các công cụ lập trình cơ bản.
-- **Platform.SystemContext**: Ngữ cảnh người dùng & Hệ thống.
+- [**Platform.BuildingBlocks**](https://github.com/Platform-System/Platform.BuildingBlocks): Các công cụ lập trình cơ bản.
+- [**Platform.SystemContext**](https://github.com/Platform-System/Platform.SystemContext): Ngữ cảnh người dùng & Hệ thống.
 
 ### 5. Ops (Vận hành)
-- **Platform.IaC**: Cấu hình hạ tầng Docker.
-- **Platform.CI-CD**: Quy trình tự động hóa GitHub Actions.
+- [**Platform.IaC**](https://github.com/Platform-System/Platform.IaC): Cấu hình hạ tầng Docker.
+- [**Platform.CI-CD**](https://github.com/Platform-System/Platform.CI-CD): Quy trình tự động hóa GitHub Actions.
 
 ---
 ## 🤖 AI Context & Instruction (Dành cho AI)
