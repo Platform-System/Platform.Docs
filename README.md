@@ -7,27 +7,27 @@ Bản đồ tri thức hệ thống Microservices Polyrepo.
 ## 🗺️ Master Map (12 Repositories)
 
 ### 1. UI (Giao diện người dùng)
-- [<img src="https://img.shields.io/badge/-Platform.UI-1f2328?style=flat-square" alt="Platform.UI">](https://github.com/Platform-System/Platform.UI): Giao diện cổng thông tin Nexus hiện đại.
+- [<img src="https://img.shields.io/badge/-Platform.UI-transparent?style=flat-square&labelColor=transparent" alt="Platform.UI">](https://github.com/Platform-System/Platform.UI): Giao diện cổng thông tin Nexus hiện đại.
 
 ### 2. APIs (Services nghiệp vụ)
-- [<img src="https://img.shields.io/badge/-Platform.Identity.API-1f2328?style=flat-square" alt="Platform.Identity.API">](https://github.com/Platform-System/Platform.Identity.API): Quản lý Tài khoản & Xác thực người dùng.
-- [<img src="https://img.shields.io/badge/-Platform.Catalog.API-1f2328?style=flat-square" alt="Platform.Catalog.API">](https://github.com/Platform-System/Platform.Catalog.API): Quản lý Sản phẩm & Danh mục.
-- [<img src="https://img.shields.io/badge/-Platform.Ordering.API-1f2328?style=flat-square" alt="Platform.Ordering.API">](https://github.com/Platform-System/Platform.Ordering.API): Quản lý Đặt hàng & Đơn hàng.
-- [<img src="https://img.shields.io/badge/-Platform.Gateway-1f2328?style=flat-square" alt="Platform.Gateway">](https://github.com/Platform-System/Platform.Gateway): Cổng tiếp nhận & Điều hướng yêu cầu (Gateway).
+- [<img src="https://img.shields.io/badge/-Platform.Identity.API-transparent?style=flat-square&labelColor=transparent" alt="Platform.Identity.API">](https://github.com/Platform-System/Platform.Identity.API): Quản lý Tài khoản & Xác thực người dùng.
+- [<img src="https://img.shields.io/badge/-Platform.Catalog.API-transparent?style=flat-square&labelColor=transparent" alt="Platform.Catalog.API">](https://github.com/Platform-System/Platform.Catalog.API): Quản lý Sản phẩm & Danh mục.
+- [<img src="https://img.shields.io/badge/-Platform.Ordering.API-transparent?style=flat-square&labelColor=transparent" alt="Platform.Ordering.API">](https://github.com/Platform-System/Platform.Ordering.API): Quản lý Đặt hàng & Đơn hàng.
+- [<img src="https://img.shields.io/badge/-Platform.Gateway-transparent?style=flat-square&labelColor=transparent" alt="Platform.Gateway">](https://github.com/Platform-System/Platform.Gateway): Cổng tiếp nhận & Điều hướng yêu cầu (Gateway).
 
 ### 3. Core (Xương sống kiến trúc)
-- [<img src="https://img.shields.io/badge/-Platform.Domain-1f2328?style=flat-square" alt="Platform.Domain">](https://github.com/Platform-System/Platform.Domain): Logic nghiệp vụ cốt lõi (Entities, Rules).
-- [<img src="https://img.shields.io/badge/-Platform.Application-1f2328?style=flat-square" alt="Platform.Application">](https://github.com/Platform-System/Platform.Application): Quy trình xử lý hồ sơ (Use Cases, MediatR).
-- [<img src="https://img.shields.io/badge/-Platform.Infrastructure-1f2328?style=flat-square" alt="Platform.Infrastructure">](https://github.com/Platform-System/Platform.Infrastructure): Hiện thực hóa công nghệ (RabbitMQ, Postgres).
-- [<img src="https://img.shields.io/badge/-Platform.Contracts-1f2328?style=flat-square" alt="Platform.Contracts">](https://github.com/Platform-System/Platform.Contracts): Ngôn ngữ liên lạc chung (Integration Events).
+- [<img src="https://img.shields.io/badge/-Platform.Domain-transparent?style=flat-square&labelColor=transparent" alt="Platform.Domain">](https://github.com/Platform-System/Platform.Domain): Logic nghiệp vụ cốt lõi (Entities, Rules).
+- [<img src="https://img.shields.io/badge/-Platform.Application-transparent?style=flat-square&labelColor=transparent" alt="Platform.Application">](https://github.com/Platform-System/Platform.Application): Quy trình xử lý hồ sơ (Use Cases, MediatR).
+- [<img src="https://img.shields.io/badge/-Platform.Infrastructure-transparent?style=flat-square&labelColor=transparent" alt="Platform.Infrastructure">](https://github.com/Platform-System/Platform.Infrastructure): Hiện thực hóa công nghệ (RabbitMQ, Postgres).
+- [<img src="https://img.shields.io/badge/-Platform.Contracts-transparent?style=flat-square&labelColor=transparent" alt="Platform.Contracts">](https://github.com/Platform-System/Platform.Contracts): Ngôn ngữ liên lạc chung (Integration Events).
 
 ### 4. Base (Tiện ích hỗ trợ)
-- [<img src="https://img.shields.io/badge/-Platform.BuildingBlocks-1f2328?style=flat-square" alt="Platform.BuildingBlocks">](https://github.com/Platform-System/Platform.BuildingBlocks): Các công cụ lập trình cơ bản.
-- [<img src="https://img.shields.io/badge/-Platform.SystemContext-1f2328?style=flat-square" alt="Platform.SystemContext">](https://github.com/Platform-System/Platform.SystemContext): Ngữ cảnh người dùng & Hệ thống.
+- [<img src="https://img.shields.io/badge/-Platform.BuildingBlocks-transparent?style=flat-square&labelColor=transparent" alt="Platform.BuildingBlocks">](https://github.com/Platform-System/Platform.BuildingBlocks): Các công cụ lập trình cơ bản.
+- [<img src="https://img.shields.io/badge/-Platform.SystemContext-transparent?style=flat-square&labelColor=transparent" alt="Platform.SystemContext">](https://github.com/Platform-System/Platform.SystemContext): Ngữ cảnh người dùng & Hệ thống.
 
 ### 5. Ops (Vận hành)
-- [<img src="https://img.shields.io/badge/-Platform.IaC-1f2328?style=flat-square" alt="Platform.IaC">](https://github.com/Platform-System/Platform.IaC): Cấu hình hạ tầng Docker.
-- [<img src="https://img.shields.io/badge/-Platform.CI--CD-1f2328?style=flat-square" alt="Platform.CI-CD">](https://github.com/Platform-System/Platform.CI-CD): Quy trình tự động hóa GitHub Actions.
+- [<img src="https://img.shields.io/badge/-Platform.IaC-transparent?style=flat-square&labelColor=transparent" alt="Platform.IaC">](https://github.com/Platform-System/Platform.IaC): Cấu hình hạ tầng Docker.
+- [<img src="https://img.shields.io/badge/-Platform.CI--CD-transparent?style=flat-square&labelColor=transparent" alt="Platform.CI-CD">](https://github.com/Platform-System/Platform.CI-CD): Quy trình tự động hóa GitHub Actions.
 
 ---
 ## 🤖 AI Context & Instruction (Dành cho AI)
