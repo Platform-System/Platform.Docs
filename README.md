@@ -7,27 +7,27 @@ Bản đồ tri thức hệ thống Microservices Polyrepo.
 ## 🗺️ Master Map (12 Repositories)
 
 ### 1. UI (Giao diện người dùng)
-- [<img src="https://img.shields.io/badge/-Platform.UI-0d1117?style=flat-square&labelColor=0d1117" alt="Platform.UI">](https://github.com/Platform-System/Platform.UI): Giao diện cổng thông tin Nexus hiện đại.
+- [<img src="./assets/labels/ui.svg" alt="Platform.UI">](https://github.com/Platform-System/Platform.UI): Giao diện cổng thông tin Nexus hiện đại.
 
 ### 2. APIs (Services nghiệp vụ)
-- [<img src="https://img.shields.io/badge/-Platform.Identity.API-0d1117?style=flat-square&labelColor=0d1117" alt="Platform.Identity.API">](https://github.com/Platform-System/Platform.Identity.API): Quản lý Tài khoản & Xác thực người dùng.
-- [<img src="https://img.shields.io/badge/-Platform.Catalog.API-0d1117?style=flat-square&labelColor=0d1117" alt="Platform.Catalog.API">](https://github.com/Platform-System/Platform.Catalog.API): Quản lý Sản phẩm & Danh mục.
-- [<img src="https://img.shields.io/badge/-Platform.Ordering.API-0d1117?style=flat-square&labelColor=0d1117" alt="Platform.Ordering.API">](https://github.com/Platform-System/Platform.Ordering.API): Quản lý Đặt hàng & Đơn hàng.
-- [<img src="https://img.shields.io/badge/-Platform.Gateway-0d1117?style=flat-square&labelColor=0d1117" alt="Platform.Gateway">](https://github.com/Platform-System/Platform.Gateway): Cổng tiếp nhận & Điều hướng yêu cầu (Gateway).
+- [<img src="./assets/labels/identity_service.svg" alt="Platform.Identity.API">](https://github.com/Platform-System/Platform.Identity.API): Quản lý Tài khoản & Xác thực người dùng.
+- [<img src="./assets/labels/catalog_api.svg" alt="Platform.Catalog.API">](https://github.com/Platform-System/Platform.Catalog.API): Quản lý Sản phẩm & Danh mục.
+- [<img src="./assets/labels/ordering_service.svg" alt="Platform.Ordering.API">](https://github.com/Platform-System/Platform.Ordering.API): Quản lý Đặt hàng & Đơn hàng.
+- [<img src="./assets/labels/gateway.svg" alt="Platform.Gateway">](https://github.com/Platform-System/Platform.Gateway): Cổng tiếp nhận & Điều hướng yêu cầu (Gateway).
 
 ### 3. Core (Xương sống kiến trúc)
-- [<img src="https://img.shields.io/badge/-Platform.Domain-0d1117?style=flat-square&labelColor=0d1117" alt="Platform.Domain">](https://github.com/Platform-System/Platform.Domain): Logic nghiệp vụ cốt lõi (Entities, Rules).
-- [<img src="https://img.shields.io/badge/-Platform.Application-0d1117?style=flat-square&labelColor=0d1117" alt="Platform.Application">](https://github.com/Platform-System/Platform.Application): Quy trình xử lý hồ sơ (Use Cases, MediatR).
-- [<img src="https://img.shields.io/badge/-Platform.Infrastructure-0d1117?style=flat-square&labelColor=0d1117" alt="Platform.Infrastructure">](https://github.com/Platform-System/Platform.Infrastructure): Hiện thực hóa công nghệ (RabbitMQ, Postgres).
-- [<img src="https://img.shields.io/badge/-Platform.Contracts-0d1117?style=flat-square&labelColor=0d1117" alt="Platform.Contracts">](https://github.com/Platform-System/Platform.Contracts): Ngôn ngữ liên lạc chung (Integration Events).
+- [<img src="./assets/labels/domain.svg" alt="Platform.Domain">](https://github.com/Platform-System/Platform.Domain): Logic nghiệp vụ cốt lõi (Entities, Rules).
+- [<img src="./assets/labels/application.svg" alt="Platform.Application">](https://github.com/Platform-System/Platform.Application): Quy trình xử lý hồ sơ (Use Cases, MediatR).
+- [<img src="./assets/labels/infrastructure.svg" alt="Platform.Infrastructure">](https://github.com/Platform-System/Platform.Infrastructure): Hiện thực hóa công nghệ (RabbitMQ, Postgres).
+- [<img src="./assets/labels/contracts.svg" alt="Platform.Contracts">](https://github.com/Platform-System/Platform.Contracts): Ngôn ngữ liên lạc chung (Integration Events).
 
 ### 4. Base (Tiện ích hỗ trợ)
-- [<img src="https://img.shields.io/badge/-Platform.BuildingBlocks-0d1117?style=flat-square&labelColor=0d1117" alt="Platform.BuildingBlocks">](https://github.com/Platform-System/Platform.BuildingBlocks): Các công cụ lập trình cơ bản.
-- [<img src="https://img.shields.io/badge/-Platform.SystemContext-0d1117?style=flat-square&labelColor=0d1117" alt="Platform.SystemContext">](https://github.com/Platform-System/Platform.SystemContext): Ngữ cảnh người dùng & Hệ thống.
+- [<img src="./assets/labels/buildingblocks.svg" alt="Platform.BuildingBlocks">](https://github.com/Platform-System/Platform.BuildingBlocks): Các công cụ lập trình cơ bản.
+- [<img src="./assets/labels/systemcontext.svg" alt="Platform.SystemContext">](https://github.com/Platform-System/Platform.SystemContext): Ngữ cảnh người dùng & Hệ thống.
 
 ### 5. Ops (Vận hành)
-- [<img src="https://img.shields.io/badge/-Platform.IaC-0d1117?style=flat-square&labelColor=0d1117" alt="Platform.IaC">](https://github.com/Platform-System/Platform.IaC): Cấu hình hạ tầng Docker.
-- [<img src="https://img.shields.io/badge/-Platform.CI--CD-0d1117?style=flat-square&labelColor=0d1117" alt="Platform.CI-CD">](https://github.com/Platform-System/Platform.CI-CD): Quy trình tự động hóa GitHub Actions.
+- [<img src="./assets/labels/iac.svg" alt="Platform.IaC">](https://github.com/Platform-System/Platform.IaC): Cấu hình hạ tầng Docker.
+- [<img src="./assets/labels/ci_cd.svg" alt="Platform.CI-CD">](https://github.com/Platform-System/Platform.CI-CD): Quy trình tự động hóa GitHub Actions.
 
 ---
 ## 🤖 AI Context & Instruction (Dành cho AI)
