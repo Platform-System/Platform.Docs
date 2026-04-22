@@ -20,6 +20,7 @@ Bản đồ tri thức hệ thống Microservices Polyrepo.
 - [<img src="./assets/labels/application.svg" alt="Platform.Application">](https://github.com/Platform-System/Platform.Application): Quy trình xử lý hồ sơ (Use Cases, MediatR).
 - [<img src="./assets/labels/infrastructure.svg" alt="Platform.Infrastructure">](https://github.com/Platform-System/Platform.Infrastructure): Hiện thực hóa công nghệ (RabbitMQ, Postgres).
 - [<img src="./assets/labels/contracts.svg" alt="Platform.Contracts">](https://github.com/Platform-System/Platform.Contracts): Ngôn ngữ liên lạc chung (Integration Events).
+- [<img src="./assets/labels/api.svg" alt="Platform.Api">](https://github.com/Platform-System/Platform.Api): Thư viện cơ sở cho các Web APIs.
 
 ### 4. Foundation (Hạt nhân dùng chung)
 - [<img src="./assets/labels/buildingblocks.svg" alt="Platform.BuildingBlocks">](https://github.com/Platform-System/Platform.BuildingBlocks): Các công cụ lập trình cơ bản.
@@ -27,9 +28,9 @@ Bản đồ tri thức hệ thống Microservices Polyrepo.
 - [<img src="./assets/labels/systemcontext.svg" alt="Platform.SystemContext">](https://github.com/Platform-System/Platform.SystemContext): Ngữ cảnh người dùng & Hệ thống.
 
 ### 5. Technical (Tiện ích công nghệ)
-- [<img src="./assets/labels/api.svg" alt="Platform.Api">](https://github.com/Platform-System/Platform.Api): Thư viện cơ sở cho các Web APIs.
 - [<img src="./assets/labels/messaging.svg" alt="Platform.Messaging">](https://github.com/Platform-System/Platform.Messaging): Cơ chế giao tiếp Event-Driven (RabbitMQ).
 - [<img src="./assets/labels/email_service.svg" alt="Platform.Email">](https://github.com/Platform-System/Platform.Email): Dịch vụ hỗ trợ gửi thông báo Email.
+
 
 ### 6. Ops (Vận hành)
 - [<img src="./assets/labels/iac.svg" alt="Platform.IaC">](https://github.com/Platform-System/Platform.IaC): Cấu hình hạ tầng Docker.
