@@ -21,19 +21,21 @@ Bản đồ tri thức hệ thống Microservices Polyrepo.
 - [<img src="./assets/labels/infrastructure.svg" alt="Platform.Infrastructure">](https://github.com/Platform-System/Platform.Infrastructure): Hiện thực hóa công nghệ (RabbitMQ, Postgres).
 - [<img src="./assets/labels/contracts.svg" alt="Platform.Contracts">](https://github.com/Platform-System/Platform.Contracts): Ngôn ngữ liên lạc chung (Integration Events).
 
-### 4. Base (Tiện ích hỗ trợ)
+### 4. Foundation (Hạt nhân dùng chung)
 - [<img src="./assets/labels/buildingblocks.svg" alt="Platform.BuildingBlocks">](https://github.com/Platform-System/Platform.BuildingBlocks): Các công cụ lập trình cơ bản.
-- [<img src="./assets/labels/systemcontext.svg" alt="Platform.SystemContext">](https://github.com/Platform-System/Platform.SystemContext): Ngữ cảnh người dùng & Hệ thống.
 - [<img src="./assets/labels/shared_kernel.svg" alt="Platform.SharedKernel">](https://github.com/Platform-System/Platform.SharedKernel): Hạt nhân nghiệp vụ dùng chung.
+- [<img src="./assets/labels/systemcontext.svg" alt="Platform.SystemContext">](https://github.com/Platform-System/Platform.SystemContext): Ngữ cảnh người dùng & Hệ thống.
+
+### 5. Technical (Tiện ích công nghệ)
 - [<img src="./assets/labels/api.svg" alt="Platform.Api">](https://github.com/Platform-System/Platform.Api): Thư viện cơ sở cho các Web APIs.
 - [<img src="./assets/labels/messaging.svg" alt="Platform.Messaging">](https://github.com/Platform-System/Platform.Messaging): Cơ chế giao tiếp Event-Driven (RabbitMQ).
 - [<img src="./assets/labels/email_service.svg" alt="Platform.Email">](https://github.com/Platform-System/Platform.Email): Dịch vụ hỗ trợ gửi thông báo Email.
 
-
-### 5. Ops (Vận hành)
+### 6. Ops (Vận hành)
 - [<img src="./assets/labels/iac.svg" alt="Platform.IaC">](https://github.com/Platform-System/Platform.IaC): Cấu hình hạ tầng Docker.
 - [<img src="./assets/labels/ci_cd.svg" alt="Platform.CI-CD">](https://github.com/Platform-System/Platform.CI-CD): Quy trình tự động hóa GitHub Actions.
 - [<img src="./assets/labels/profile_label.svg" alt="Platform.Profile">](https://github.com/Platform-System/.github): Hồ sơ hệ thống và Dashboards.
+
 
 
 ---
