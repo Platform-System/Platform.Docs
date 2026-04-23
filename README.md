@@ -14,6 +14,7 @@ Bản đồ tri thức hệ thống Microservices Polyrepo.
 - [<img src="./assets/labels/gateway.svg" alt="Platform.Gateway">](https://github.com/Platform-System/Platform.Gateway): Cổng tiếp nhận & Điều hướng yêu cầu (Gateway).
 - [<img src="./assets/labels/identity_service.svg" alt="Platform.Identity.API">](https://github.com/Platform-System/Platform.Identity.API): Quản lý Tài khoản & Xác thực người dùng.
 - [<img src="./assets/labels/ordering_service.svg" alt="Platform.Ordering.API">](https://github.com/Platform-System/Platform.Ordering.API): Quản lý Đặt hàng & Đơn hàng.
+- [<img src="./assets/labels/product_cover_upload.svg" alt="Platform.ProductCoverUpload.Function">](https://github.com/Platform-System/Platform.ProductCoverUpload.Function): Serverless function xử lý tải lên ảnh bìa sản phẩm.
 
 ### 3. Core (Xương sống kiến trúc)
 - [<img src="./assets/labels/api.svg" alt="Platform.Api">](https://github.com/Platform-System/Platform.Api): Thư viện cơ sở cho các Web APIs.
@@ -43,7 +44,7 @@ Bản đồ tri thức hệ thống Microservices Polyrepo.
 ---
 ## 🤖 AI Context & Instruction (Dành cho AI)
 Nếu bạn là AI hỗ trợ dự án này, hãy tuân thủ:
-- **Ngữ cảnh**: Hệ thống Microservices Polyrepo (12 repositories).
+- **Ngữ cảnh**: Hệ thống Microservices Polyrepo (20 repositories).
 - **Kiến trúc**: Clean Architecture, DDD, Event-Driven.
 - **Nghiệm vụ**: Review code, tối ưu hóa logic nghiệp vụ và đảm bảo tính đồng nhất giữa các repository.
 - **Tiêu chuẩn**: Luôn kiểm tra các `Contracts` trước khi đề xuất thay đổi Integration Events.
