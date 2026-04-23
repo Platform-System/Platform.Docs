@@ -14,25 +14,27 @@ Bản đồ tri thức hệ thống Microservices Polyrepo.
 - [<img src="./assets/labels/gateway.svg" alt="Platform.Gateway">](https://github.com/Platform-System/Platform.Gateway): Cổng tiếp nhận & Điều hướng yêu cầu (Gateway).
 - [<img src="./assets/labels/identity_service.svg" alt="Platform.Identity.API">](https://github.com/Platform-System/Platform.Identity.API): Quản lý Tài khoản & Xác thực người dùng.
 - [<img src="./assets/labels/ordering_service.svg" alt="Platform.Ordering.API">](https://github.com/Platform-System/Platform.Ordering.API): Quản lý Đặt hàng & Đơn hàng.
+
+### 3. Functions (Serverless Modules)
 - [<img src="./assets/labels/product_cover_upload.svg" alt="Platform.ProductCoverUpload.Function">](https://github.com/Platform-System/Platform.ProductCoverUpload.Function): Serverless function xử lý tải lên ảnh bìa sản phẩm.
 
-### 3. Core (Xương sống kiến trúc)
+### 4. Core (Xương sống kiến trúc)
 - [<img src="./assets/labels/api.svg" alt="Platform.Api">](https://github.com/Platform-System/Platform.Api): Thư viện cơ sở cho các Web APIs.
 - [<img src="./assets/labels/application.svg" alt="Platform.Application">](https://github.com/Platform-System/Platform.Application): Quy trình xử lý hồ sơ (Use Cases, MediatR).
 - [<img src="./assets/labels/contracts.svg" alt="Platform.Contracts">](https://github.com/Platform-System/Platform.Contracts): Ngôn ngữ liên lạc chung (Integration Events).
 - [<img src="./assets/labels/domain.svg" alt="Platform.Domain">](https://github.com/Platform-System/Platform.Domain): Logic nghiệp vụ cốt lõi (Entities, Rules).
 - [<img src="./assets/labels/infrastructure.svg" alt="Platform.Infrastructure">](https://github.com/Platform-System/Platform.Infrastructure): Hiện thực hóa công nghệ (RabbitMQ, Postgres).
 
-### 4. Foundation (Hạt nhân dùng chung)
+### 5. Foundation (Hạt nhân dùng chung)
 - [<img src="./assets/labels/buildingblocks.svg" alt="Platform.BuildingBlocks">](https://github.com/Platform-System/Platform.BuildingBlocks): Các công cụ lập trình cơ bản.
 - [<img src="./assets/labels/shared_kernel.svg" alt="Platform.SharedKernel">](https://github.com/Platform-System/Platform.SharedKernel): Hạt nhân nghiệp vụ dùng chung.
 - [<img src="./assets/labels/systemcontext.svg" alt="Platform.SystemContext">](https://github.com/Platform-System/Platform.SystemContext): Ngữ cảnh người dùng & Hệ thống.
 
-### 5. Technical (Tiện ích công nghệ)
+### 6. Technical (Tiện ích công nghệ)
 - [<img src="./assets/labels/email_service.svg" alt="Platform.Email">](https://github.com/Platform-System/Platform.Email): Dịch vụ hỗ trợ gửi thông báo Email.
 - [<img src="./assets/labels/messaging.svg" alt="Platform.Messaging">](https://github.com/Platform-System/Platform.Messaging): Cơ chế giao tiếp Event-Driven (RabbitMQ).
 
-### 6. Ops (Vận hành)
+### 7. Ops (Vận hành)
 - [<img src="./assets/labels/ci_cd.svg" alt="Platform.CI-CD">](https://github.com/Platform-System/Platform.CI-CD): Quy trình tự động hóa GitHub Actions.
 - [<img src="./assets/labels/docs.svg" alt="Platform.Docs">](https://github.com/Platform-System/Platform.Docs): Tài liệu hệ thống Master.
 - [<img src="./assets/labels/iac.svg" alt="Platform.IaC">](https://github.com/Platform-System/Platform.IaC): Cấu hình hạ tầng Docker.
