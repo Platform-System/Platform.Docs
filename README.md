@@ -10,7 +10,7 @@ Bản đồ tri thức hệ thống Microservices Polyrepo.
 - [<img src="./assets/labels/ui.svg" alt="Platform.UI">](https://github.com/Platform-System/Platform.UI): Giao diện cổng thông tin Nexus hiện đại.
 
 ### 2. APIs (Services nghiệp vụ)
-- [<img src="./assets/labels/catalog_api.svg" alt="Platform.Catalog.API">](https://github.com/Platform-System/Platform.Catalog.API): Quản lý Sản phẩm & Danh mục.
+- [<img src="./assets/labels/catalog_service.svg" alt="Platform.Catalog.API">](https://github.com/Platform-System/Platform.Catalog.API): Quản lý Sản phẩm & Danh mục.
 - [<img src="./assets/labels/gateway.svg" alt="Platform.Gateway">](https://github.com/Platform-System/Platform.Gateway): Cổng tiếp nhận & Điều hướng yêu cầu (Gateway).
 - [<img src="./assets/labels/identity_service.svg" alt="Platform.Identity.API">](https://github.com/Platform-System/Platform.Identity.API): Quản lý Tài khoản & Xác thực người dùng.
 - [<img src="./assets/labels/ordering_service.svg" alt="Platform.Ordering.API">](https://github.com/Platform-System/Platform.Ordering.API): Quản lý Đặt hàng & Đơn hàng.
